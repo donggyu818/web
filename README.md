@@ -1,2 +1,2 @@
 # web
-vscode용 
+vscode 
