@@ -1,0 +1,2 @@
+# web
+vscode용 
